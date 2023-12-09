@@ -1,0 +1,3 @@
+1st quiz 
+12 9 2023 
+about git commands( add,commit,push)
