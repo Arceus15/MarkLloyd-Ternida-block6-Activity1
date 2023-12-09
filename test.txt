@@ -1,2 +1,3 @@
 1st quiz 
 12 9 20203 
+about git commands( add, commit , push)
